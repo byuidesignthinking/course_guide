@@ -16,6 +16,11 @@ _Materials for [ART 231 Design Thinking: Inquiry and Innovation](https://www.byu
 {:toc}
 </details>
 
+## Contact Me
+
+We will use Slack this semester.  I am on Slack all day.  If you want a quick response then contact me there.  
+
+- [Schedule a visit](https://byuidatascience.github.io/visit/hathaway/)
 ## Syllabus
 
 > 'In my mind, the overarching theme for all of our scholarly work at Brigham Young University-Idaho should be inspired inquiry and innovation. Let me repeat that: **inspired inquiry and innovation**. We are not like other institutions of higher education; we have access to the gifts of the Spirit, which cannot be quantified nor counted. There are simply things we cannot adequately define and describe about the process of teaching with the Spirit.'

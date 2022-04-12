@@ -6,8 +6,8 @@ nav_order: "C"
 
 ## Books
 
-| Title                                                         | price | topic              | domain          |
-| ------------------------------------------------------------ | ----: | ------------------ | --------------- |
+| Title       | price | topic      | domain    |
+| ----------- | ----: | ---------- | --------- |
 | [Setting the Table: The Transforming Power of Hospitality in Business](https://www.amazon.com/Setting-Table-Transforming-Hospitality-Business/dp/0060742763) |    10 | design in practice | entrepreneur    |
 | [Gamestorming: A Playbook for Innovators, Rulebreakers, and Changemakers](https://www.amazon.com/Gamestorming-Playbook-Innovators-Rulebreakers-Changemakers/dp/0596804172) |    15 | design process     | design thinking |
 | [101 Design Methods: A Structured Approach for Driving Innovation in Your Organization](https://www.amazon.com/gp/product/1118083466/?tag=wwwwileycom-20) |    20 | design process     | design thinking |
@@ -47,8 +47,10 @@ nav_order: "C"
 
 ## Articles
 
-| Title                                                        | topic                | domain          |
-| ------------------------------------------------------------ | -------------------- | --------------- |
+
+
+| Title    | topic       | domain          |
+| -------- | -------------------- | --------------- |
 | [Design Thinking is Not a Process, It's A Mindset](https://www.entrepreneur.com/article/310282) |                      |                 |
 | [How to apply a design thinking, HCD, UX or any creative process from scratch](https://medium.com/digital-experience-design/how-to-apply-a-design-thinking-hcd-ux-or-any-creative-process-from-scratch-b8786efbf812) | design process       | design thinking |
 | [Brainstorming is dumb](https://www.fastcompany.com/3062292/brainstorming-is-dumb) | ideating             | design thinking |
