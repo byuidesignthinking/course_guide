@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Awesome Presentation</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <style type="text/css">
+      @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+      @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+      @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+      
+      body { font-family: 'Droid Serif'; }
+      h1 {
+        font-family: 'Yanone Kaffeesatz';
+        font-weight: normal;
+        color:darkslategrey;
+      }
+      h2, h3 {
+        font-family: 'Yanone Kaffeesatz';
+        font-weight: normal;
+      }
+      .my-one-page-font {
+        font-size: 30px;
+      }     
+      .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+            /* Two-column layout */
+      .left-column {
+        color: #777;
+        width: 30%;
+        float: left;
+      }
+        .left-column h2:last-of-type, .left-column h3:last-child {
+          color: #000;
+        }
+      .right-column {
+        width: 70%;
+        float: right;
+        padding-top: 1em;
+      }
+      .inverse {
+        background: #272822;
+        color: #e4e4e1;
+        text-shadow: 0 0 20px #333;
+      }
+      .inverse h1, .inverse h2, .inverse h3 {
+        color: #f3f3f3;
+        line-height: 0.8em;
+      }
+      .lightfont {color:rgb(129, 126, 126);
+    </style>
+  </head>
+  <body>
+    <textarea id="source">
+
+class: center, middle
+
+# Introduction to Design Thinking
+
+_J. Hathaway: Instructor_
+_Gavin South: TA_
+_Wyatt Ogden: TA_
+
+---
+
+
+# What makes good music?
+
+
+![![:scale 80%]](../img/aretha_studio.webp)
+
+---
+
+# What makes a good musician?
+
+
+
+---
+
+# Learning Empathy, Persuasion, and Emotional Intelligence
+
+- Building mindsets is more than getting a grade
+- Becoming is more than taking a class
+- We get the chance to develop the core employable skills of the future
+
+---
+
+# Lifestyles, Grades, and Design Thinking
+
+
+---
+
+# On Grades
+
+> The central argument here is that by acting as if grading motivates learning, we put both student and faculty energies in the wrong places. Does grading represent learning? Maybe … but mostly, grading motivates getting grades.
+
+[Diane Pike](http://onlinelibrary.wiley.com/doi/10.1111/j.1533-8525.2010.01195.x/abstract)
+
+---
+
+# On Education
+
+> Anthropologists have reported that the hunter-gatherer groups they studied did not distinguish between work and play–essentially all of life was understood as play.
+>
+> With the rise of schooling, people began to think of learning as children’s work. The same power-assertive methods that had been used to make children work in fields and factories were quite naturally transferred to the classroom.
+> 
+> If children learn nothing else in school, they learn the difference between work and play and that learning is work, not play.
+
+[Peter Gray](https://www.psychologytoday.com/us/blog/freedom-learn/200808/brief-history-education)
+
+---
+
+# On Job skills
+
+> By 2020, more than a __third of the desired core skill sets__ of most occupations will be comprised of skills that are not yet considered crucial to the job today, according to our respondents. Overall, social skills such as __persuasion, emotional intelligence and teaching others__ will be in higher demand across industries than narrow technical skills, such as programming or equipment operation and control. _In essence, technical skills will need to be supplemented with strong social and collaboration skills._
+
+[World Economic Forum](http://www3.weforum.org/docs/WEF_FOJ_Executive_Summary_Jobs.pdf)
+
+---
+
+# President Henry B. Eyring's take
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Rq3QpIa5oc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+    </textarea>
+    <script src="https://remarkjs.com/downloads/remark-latest.min.js" type="text/javascript">
+    </script>
+    <script type="text/javascript">
+      remark.macros.upper = function () {
+        // `this` is the value in the parenthesis, or undefined if left out
+        return this.toUpperCase();
+      };
+
+      remark.macros.random = function () {
+        // params are passed as function arguments: ["one", "of", "these", "words"]
+        var i = Math.floor(Math.random() * arguments.length);
+        return arguments[i];
+      };
+      
+      remark.macros.scale = function (percentage) {
+        var url = this;
+        return '<img src="' + url + '" style="width: ' + percentage + '" />';
+      };
+      
+      var slideshow = remark.create({
+        ratio: "16:9",
+        highlightLanguage: 'javascript',
+        highlightStyle: 'monokai'
+       });
+    </script>
+  </body>
+</html>
