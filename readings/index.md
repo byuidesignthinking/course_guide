@@ -49,6 +49,7 @@ datatable: true
 | [Leadership and Self-Deception: Getting Out of the Box](https://www.amazon.com/Leadership-Self-Deception-Getting-Out-Box/dp/1576759776) |    10 | self deception     | leadership      |
 
 <div class="datatable-end"></div>
+
 ## Articles
 
 | Title    | topic       | domain          |
