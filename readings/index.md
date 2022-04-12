@@ -112,6 +112,7 @@ datatable: true
 | [How Culture Controls Communication](https://www.forbes.com/sites/carolkinseygoman/2011/11/28/how-culture-controls-communication/#2c9e55bc263b) | oral expression      | soft skills |
 | [Use of language in diplomacy](https://www.diplomacy.edu/resources/general/use-language-diplomacy) | oral expression      | soft skills |
 | [5 Ways to Communicate More Clearly](https://www.inc.com/geoffrey-james/5-ways-to-communicate-more-clearly.html) | oral expression      | soft skills |
+
 ## Blogs
 
 Some of the articles above have been gleaned from the following blogs. Feel free to browse through these blogs to find readings related to our course.
