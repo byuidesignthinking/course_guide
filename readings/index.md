@@ -3,20 +3,14 @@ nav_order: "C"
 has_children: true
 ---
 
-<script src="site_libs/header-attrs-2.1.4/header-attrs.js"></script>
-<script src="site_libs/jquery-1.12.4/jquery.min.js"></script>
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/readable.min.css" rel="stylesheet" />
-<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
-<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
-<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
-<script src="site_libs/htmlwidgets-1.5.1/htmlwidgets.js"></script>
+# Readings
+
+
 <link href="site_libs/datatables-css-0.0.0/datatables-crosstalk.css" rel="stylesheet" />
 <script src="site_libs/datatables-binding-0.13/datatables.js"></script>
 <link href="site_libs/dt-core-1.10.20/css/jquery.dataTables.min.css" rel="stylesheet" />
 <link href="site_libs/dt-core-1.10.20/css/jquery.dataTables.extra.css" rel="stylesheet" />
 <script src="site_libs/dt-core-1.10.20/js/jquery.dataTables.min.js"></script>
-<script src="site_libs/jszip-1.10.20/jszip.min.js"></script>
 <link href="site_libs/dt-ext-buttons-1.10.20/css/buttons.dataTables.min.css" rel="stylesheet" />
 <script src="site_libs/dt-ext-buttons-1.10.20/js/dataTables.buttons.min.js"></script>
 <script src="site_libs/dt-ext-buttons-1.10.20/js/buttons.flash.min.js"></script>
@@ -28,7 +22,6 @@ has_children: true
 <link href="site_libs/dt-ext-responsive-1.10.20/css/responsive.dataTables.min.css" rel="stylesheet" />
 <script src="site_libs/dt-ext-responsive-1.10.20/js/dataTables.responsive.min.js"></script>
 
-# Readings
 
 There is a balance between active participation and knowledge accumulation. We need to learn the terminology and tools through reading. Our reading will make the active participation in class improve. At times your group and the class will read the same material. Suggested readings are provided below.
 
