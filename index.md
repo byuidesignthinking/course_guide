@@ -5,7 +5,7 @@ has_children: true
 
 # Design Thinking (ART 231)
 
-_Materials for ART 231 Design Thinking: Inquiry and Design. The syllabus is below. Our class material can be found in the [slides folder](slides/index.md)._
+_Materials for [ART 231 Design Thinking: Inquiry and Innovation](https://www.byui.edu/catalog#/courses/4y-bP3lnjb?bc=true&bcCurrent=&bcCurrent=Design%20Thinking%3A%20Inquiry%20and%20Innovation&bcItemType=courses). The syllabus is below. Our class material can be found in the [slides folder](slides/index.md)._
 
 <details markdown="block">
   <summary>
@@ -20,7 +20,7 @@ _Materials for ART 231 Design Thinking: Inquiry and Design. The syllabus is belo
 
 > 'In my mind, the overarching theme for all of our scholarly work at Brigham Young University-Idaho should be inspired inquiry and innovation. Let me repeat that: **inspired inquiry and innovation**. We are not like other institutions of higher education; we have access to the gifts of the Spirit, which cannot be quantified nor counted. There are simply things we cannot adequately define and describe about the process of teaching with the Spirit.'
 
-<p align="right"> [Elder David A Bednar](http://www2.byui.edu/Presentations/Transcripts/Devotionals/2001_09_18_Eyring.htm) </p>
+_[Elder David A Bednar](http://www2.byui.edu/Presentations/Transcripts/Devotionals/2001_09_18_Eyring.htm)_
 
 ### What will I Learn by taking this course?
 
