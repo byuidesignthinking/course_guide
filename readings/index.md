@@ -1,10 +1,13 @@
 ---
 nav_order: "C"
+datatable: true
 ---
 
 # Readings
 
 ## Books
+
+<div class="datatable-begin"></div>
 
 | Title       | price | topic      | domain    |
 | ----------- | ----: | ---------- | --------- |
@@ -45,9 +48,8 @@ nav_order: "C"
 | [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654/ref=sr_1_1?ie=UTF8&qid=1537565084&sr=8-1&keywords=design+of+everyday+things) |    15 | design             | product design  |
 | [Leadership and Self-Deception: Getting Out of the Box](https://www.amazon.com/Leadership-Self-Deception-Getting-Out-Box/dp/1576759776) |    10 | self deception     | leadership      |
 
+<div class="datatable-end"></div>
 ## Articles
-
-
 
 | Title    | topic       | domain          |
 | -------- | -------------------- | --------------- |
