@@ -1,3 +1,7 @@
+---
+parent: Design Thinking (ART 231)
+nav_order: "A"
+---
 # Mindset Growth Areas
 
 Your Design Thinking Mindset is evaluated subjectively from your perceived mastery (becoming) of the following skills & abilities:
