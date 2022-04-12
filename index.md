@@ -39,3 +39,66 @@ Additionally this course will help you develop the spiritual gift of Inspired In
 - trust your intuition and confidently express your opinions in large and small groups
 - learn how to find a unified path forward
 
+### How does the class work?
+
+*In this class, you will be working on real-world challenges on a real team. You earn your grade, but you will not be able to pass the class on your own. Knowing how the class works will reduce frustration and guarantee your success. The following provides a rough description of the activities you will experience in this class.*
+
+**Team Research Projects:** This course has 2-3 team research projects. Your assigned student coach will support your team through the innovation projects. Design Thinking techniques will generate a measurable experiment with actionable results. **You must come to class with sufficient research to move the team project forward.**
+
+**Design & Mindset Readings:** These readings will help establish a way of thinking (mindset). You will want to read as quickly (and thoroughly) as possible to speak intelligently in the language of inquiry and innovation. Your Student Coach will note evidence of your reading as you participate in group discussions online and in person.
+
+![](/img/condiv_process.png)
+
+### How do I earn my grade?
+
+We will have a few tools to document our learning this semester. From the following tools, we will agree on a grade. **Remember: as we focus on becoming, the grade should be a natural consequence.**
+
+#### What deliverables will I use to document my grade?
+
+- **Design and mindset reading and presentation:** To obtain your desired grade, you will need to complete semester hours of reading, class participation, and group discussion leads. As you participate, you will be responsible for keeping a journal of your reading and how your mindsets are developing.
+- **Completing project hours:** Each of the 2-3 projects will be time-intensive. You will need to put hours into your projects outside of the three class hours each week. You will need to complete semester hours of project support to earn your desired grade. *Each class period is worth 5 hours and each hour of study outside of class is worth 1 hour.*
+- **Becoming and grade request cover letter:** Your one-page cover letter will document your growth and work in the course. The assignments and notes you keep during the semester should make this easy to complete at the end of the semester. You must request your final grade based on your hours and class participation.
+- **Peer letter of recommendation:** You will ask one of your group members to write you a half-page letter of recommendation that you will submit with your cover letter.
+- **Exit Interview:** During the last week of the semester, you will meet with me for a short exit interview. In this interview, you will present your cover letter, peer recommendation letter, and journal.
+- **Group participation through attendance:** See below for details.
+
+Each day in class, you will have the opportunity to demonstrate progress in the mindsets through your preparation and participation in the activities. Outside of class, you will be able to apply the Design Thinking mindsets to your everyday life. 
+
+Submit the **Becoming and grade request cover letter** and complete the following hours to build the foundation for your learning (and final grade). As noted above, TA and teacher feedback can also change your grade. **Remember: the course is about becoming, not getting a grade.**
+
+#### What specifications align with each grade?
+
+We will use [Harvest](https://byui.harvestapp.com/) to track our learning time during the course.  Your time will be tracked based on your _'Billable amount'_ shown at the end of the semester.  Each hour of class is _'billable'_ at \$50 an hour and all other hours are _'billable'_ at \$10 an hour.
+
+##### A: I live Design Thinking
+
+- **Billable Hours:** at least 2350 (\$50-hour class & 40 hours outside at \$10)
+- **Discussion Lead:** at least 3 readings discussion leads.
+- __Peer letter of recommendation submitted__
+- __Grade request letter submitted__
+- __Exit interview completed__
+
+##### B: I could use Design Thinking in my life
+
+- **Billable Hours:** at least 2150 (\$50 hour class & 25 hours outside at \$10)
+- **Discussion Lead:** at least 2 readings discussion leads.
+- __Grade request letter submitted__
+- __Exit interview completed__
+
+##### C: I understand Design Thinking
+
+- **Billable Hours:** at least 2100 (\$50 hour class & 15 hours outside at \$10)
+- **Discussion Lead:** at least 2 readings discussion leads.
+- __Grade request letter submitted__
+
+##### D: I think I am awake
+
+- **Billable Hours:** less than \$150 billable hours or more than 4 unexcused absences
+
+## Do I need a textbook?
+
+We have recommended multiple books from which you can choose for your [development reading](readings/index.md) time this semester. To meet your hours we recommend purchasing and reading at least one of the books on the list.
+
+### Honor Code
+
+Our class will uphold the [following](http://www.byui.edu/mathematics/policies) as well. Specifically, class attendance depends on your support of the honor code [dress and grooming standards](http://www.byui.edu/student-honor-office/ces-honor-code/dress-and-grooming) and your [academic honesty](http://www.byui.edu/student-honor-office/ces-honor-code/academic-honesty).
