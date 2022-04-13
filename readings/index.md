@@ -6,6 +6,8 @@ nav_order: "C"
 
 ## Books
 
+<div class="datatable-begin"></div>
+
 <div id="my-table">
 
 | Title       | price | topic      | domain    |
@@ -48,6 +50,8 @@ nav_order: "C"
 | [Leadership and Self-Deception: Getting Out of the Box](https://www.amazon.com/Leadership-Self-Deception-Getting-Out-Box/dp/1576759776) |    10 | self deception     | leadership      |
 
 </div>
+
+<div class="datatable-end"></div>
 
 ## Articles
 
