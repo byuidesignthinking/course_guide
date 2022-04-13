@@ -10,7 +10,7 @@ nav_order: "C"
 - __[Setting the Table: The Transforming Power of Hospitality in Business](https://www.amazon.com/Setting-Table-Transforming-Hospitality-Business/dp/0060742763) \$10 (design in practice: entrepreneur)__
 - __[Gamestorming: A Playbook for Innovators, Rulebreakers, and Changemakers](https://www.amazon.com/Gamestorming-Playbook-Innovators-Rulebreakers-Changemakers/dp/0596804172) \$15 (design process: design thinking)__
 - __[101 Design Methods: A Structured Approach for Driving Innovation in Your Organization](https://www.amazon.com/gp/product/1118083466/?tag=wwwwileycom-20) \$20 (design process:design thinking)__
-- __[Scaling Up Excellence: Getting to More Without Settling for Less](https://www.amazon.com/Scaling-Up-Excellence-Getting-Settling/dp/0385347022) \$15)__(design in practice: business)__
+- __[Scaling Up Excellence: Getting to More Without Settling for Less](https://www.amazon.com/Scaling-Up-Excellence-Getting-Settling/dp/0385347022) \$15 (design in practice: business)__
 - __[creativity inc](https://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0812993012) \$20 (creativity: media)__
 - __[The Designful Company: How to build a culture of nonstop innovation 1st Edition](https://www.amazon.com/The-Designful-Company-culture-innovation/dp/0321580060) \$20 (design process: design thinking)__
 - __[The Ten Faces of Innovation: IDEO's Strategies for Beating the Devil's Advocate and Driving Creativity Throughout Your Organization](https://www.amazon.com/exec/obidos/ASIN/0385512074/theartofinnovat/102-0654687-1650515) \$25 (design process: design thinking)__
