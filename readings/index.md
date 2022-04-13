@@ -2,6 +2,9 @@
 nav_order: "C"
 ---
 
+
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.21/css/jquery.dataTables.min.css" />
+
 # Readings
 
 ## Books
@@ -127,6 +130,10 @@ Some of the articles above have been gleaned from the following blogs. Feel free
 - __[Designmind](https://designmind.frogdesign.com/?sort=popular#sort)__
 - __[The Design Gym](http://www.thedesigngym.com/blog/)__
 - __[Designthink](http://desthink.tumblr.com/)__
+
+
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.10.16/datatables.min.js"></script>
 
 <script>
 $(document).ready(function () {
