@@ -11,9 +11,9 @@ datatable: true
 ## Books
 
 
-- __[Setting the Table: The Transforming Power of Hospitality in Business](https://www.amazon.com/Setting-Table-Transforming-Hospitality-Business/dp/0060742763) \$10 | design in practice | entrepreneur__
-- __[Gamestorming: A Playbook for Innovators, Rulebreakers, and Changemakers](https://www.amazon.com/Gamestorming-Playbook-Innovators-Rulebreakers-Changemakers/dp/0596804172) \$15 | design process     | design thinking__
-- __[101 Design Methods: A Structured Approach for Driving Innovation in Your Organization](https://www.amazon.com/gp/product/1118083466/?tag=wwwwileycom-20) \$20 | design process     | design thinking__
+- __[Setting the Table: The Transforming Power of Hospitality in Business](https://www.amazon.com/Setting-Table-Transforming-Hospitality-Business/dp/0060742763) \$10 (design in practice: entrepreneur)__
+- __[Gamestorming: A Playbook for Innovators, Rulebreakers, and Changemakers](https://www.amazon.com/Gamestorming-Playbook-Innovators-Rulebreakers-Changemakers/dp/0596804172) \$15 (design process: design thinking)__
+- __[101 Design Methods: A Structured Approach for Driving Innovation in Your Organization](https://www.amazon.com/gp/product/1118083466/?tag=wwwwileycom-20) \$20 (design process:design thinking)__
 - __[Scaling Up Excellence: Getting to More Without Settling for Less](https://www.amazon.com/Scaling-Up-Excellence-Getting-Settling/dp/0385347022) \$15 | design in practice | business__
 - __[creativity inc](https://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0812993012) \$20 | creativity         | media__
 - __[The Designful Company: How to build a culture of nonstop innovation 1st Edition](https://www.amazon.com/The-Designful-Company-culture-innovation/dp/0321580060) \$20 | design process     | design thinking__
@@ -51,7 +51,7 @@ datatable: true
 
 ## Articles
 
-- __[Design Thinking is Not a Process, It's A Mindset](https://www.entrepreneur.com/article/310282) \$                  |                 |
+- __[Design Thinking is Not a Process, It's A Mindset](https://www.entrepreneur.com/article/310282)__
 - __[How to apply a design thinking, HCD, UX or any creative process from scratch](https://medium.com/digital-experience-design/how-to-apply-a-design-thinking-hcd-ux-or-any-creative-process-from-scratch-b8786efbf812) | design process       | design thinking |
 - __[Brainstorming is dumb](https://www.fastcompany.com/3062292/brainstorming-is-dumb) | ideating             | design thinking |
 - __[Design and the Self](https://medium.com/design-your-life/design-and-the-self-a5670a000fee) \$                  |                 |
