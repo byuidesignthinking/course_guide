@@ -2,9 +2,6 @@
 nav_order: "C"
 ---
 
-
-<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.21/css/jquery.dataTables.min.css" />
-
 # Readings
 
 ## Books
