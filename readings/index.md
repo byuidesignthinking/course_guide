@@ -7,7 +7,7 @@ datatable: true
 
 ## Books
 
-<div class="datatable-begin"></div>
+<div id="my-table">
 
 | Title       | price | topic      | domain    |
 | ----------- | ----: | ---------- | --------- |
@@ -48,7 +48,7 @@ datatable: true
 | [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654/ref=sr_1_1?ie=UTF8&qid=1537565084&sr=8-1&keywords=design+of+everyday+things) |    15 | design             | product design  |
 | [Leadership and Self-Deception: Getting Out of the Box](https://www.amazon.com/Leadership-Self-Deception-Getting-Out-Box/dp/1576759776) |    10 | self deception     | leadership      |
 
-<div class="datatable-end"></div>
+</div>
 
 ## Articles
 
@@ -124,3 +124,9 @@ Some of the articles above have been gleaned from the following blogs. Feel free
 - __[Designmind](https://designmind.frogdesign.com/?sort=popular#sort)__
 - __[The Design Gym](http://www.thedesigngym.com/blog/)__
 - __[Designthink](http://desthink.tumblr.com/)__
+
+<script>
+$(document).ready(function () {
+$("#my-table > table").DataTable();
+});
+</script>
