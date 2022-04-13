@@ -1,5 +1,6 @@
 ---
 nav_order: "C"
+datatable: true
 ---
 
 
@@ -9,9 +10,6 @@ nav_order: "C"
 
 ## Books
 
-<div class="datatable-begin"></div>
-
-<div id="my-table">
 
 | Title       | price | topic      | domain    |
 | ----------- | ----: | ---------- | --------- |
@@ -52,9 +50,6 @@ nav_order: "C"
 | [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654/ref=sr_1_1?ie=UTF8&qid=1537565084&sr=8-1&keywords=design+of+everyday+things) |    15 | design             | product design  |
 | [Leadership and Self-Deception: Getting Out of the Box](https://www.amazon.com/Leadership-Self-Deception-Getting-Out-Box/dp/1576759776) |    10 | self deception     | leadership      |
 
-</div>
-
-<div class="datatable-end"></div>
 
 ## Articles
 
@@ -131,12 +126,14 @@ Some of the articles above have been gleaned from the following blogs. Feel free
 - __[The Design Gym](http://www.thedesigngym.com/blog/)__
 - __[Designthink](http://desthink.tumblr.com/)__
 
-
-<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
-<script type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.10.16/datatables.min.js"></script>
-
 <script>
-$(document).ready(function () {
-$("#my-table > table").DataTable();
+$(document).ready(function(){
+
+    $('table.display').DataTable( {
+        paging: true,
+        stateSave: true,
+        searching: true
+    }
+        );
 });
 </script>
