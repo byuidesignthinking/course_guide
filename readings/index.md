@@ -4,6 +4,7 @@ nav_order: "C"
 
 # Readings
 
+The below lists provide examples of material that you could read as part of your development hours.  You can use [this sortable and filterable table](readings_table.html) as well.
 ## Books
 
 
