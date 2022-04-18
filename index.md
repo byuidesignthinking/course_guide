@@ -27,6 +27,14 @@ We will use Slack this semester.  I am on Slack all day.  If you want a quick re
 
 _[Elder David A Bednar](http://www2.byui.edu/Presentations/Transcripts/Devotionals/2001_09_18_Eyring.htm)_
 
+### What do I need for this class?
+
+- __3 x 3 Sticky Notes (light colors only)__
+- __Dry Erase Marker (Dark Blue or Black)__
+- [The Field Guide to Human-Centered Design](https://www.designkit.org/resources/1)
+- [Miro Account](https://miro.com/)
+- [Slack Team](byuidss.slack.com)
+
 ### What will I Learn by taking this course?
 
 The atmosphere of the class provides a safe laboratory to learn design thinking mindsets through real, hands-on activities. At the successful conclusion of this course you will be able to demonstrate:
