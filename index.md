@@ -21,6 +21,7 @@ _Materials for [ART 231 Design Thinking: Inquiry and Innovation](https://www.byu
 We will use Slack this semester.  I am on Slack all day.  If you want a quick response then contact me there.  
 
 - [Schedule a visit](https://byuidatascience.github.io/visit/hathaway/)
+
 ## Syllabus
 
 > 'In my mind, the overarching theme for all of our scholarly work at Brigham Young University-Idaho should be inspired inquiry and innovation. Let me repeat that: **inspired inquiry and innovation**. We are not like other institutions of higher education; we have access to the gifts of the Spirit, which cannot be quantified nor counted. There are simply things we cannot adequately define and describe about the process of teaching with the Spirit.'
@@ -69,7 +70,7 @@ We will have a few tools to document our learning this semester. From the follow
 #### What deliverables will I use to document my grade?
 
 - **Design and mindset reading and presentation:** To obtain your desired grade, you will need to complete semester hours of reading, class participation, and group discussion leads. As you participate, you will be responsible for keeping a journal of your reading and how your mindsets are developing.
-- **Completing project hours:** Each of the 2-3 projects will be time-intensive. You will need to put hours into your projects outside of the three class hours each week. You will need to complete semester hours of project support to earn your desired grade. *Each class period is worth 5 hours and each hour of study outside of class is worth 1 hour.*
+- **Completing project hours:** Each of the 2-3 projects will be time-intensive. You will need to put hours into your projects outside of the three class hours each week. You will need to complete semester hours of project support to earn your desired grade. *Each class period is worth _'\$50'_ an hour and each hour of study outside of class is worth _'\$10'_ hour.*
 - **Becoming and grade request cover letter:** Your one-page cover letter will document your growth and work in the course. The assignments and notes you keep during the semester should make this easy to complete at the end of the semester. You must request your final grade based on your hours and class participation.
 - **Peer letter of recommendation:** You will ask one of your group members to write you a half-page letter of recommendation that you will submit with your cover letter.
 - **Exit Interview:** During the last week of the semester, you will meet with me for a short exit interview. In this interview, you will present your cover letter, peer recommendation letter, and journal.
