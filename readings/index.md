@@ -118,3 +118,8 @@ Some of the articles above have been gleaned from the following blogs. Feel free
 - __[Designmind](https://designmind.frogdesign.com/?sort=popular#sort)__
 - __[The Design Gym](http://www.thedesigngym.com/blog/)__
 - __[Designthink](http://desthink.tumblr.com/)__
+
+
+## New Articles from 2022
+
+- [What are Personas?](https://www.interaction-design.org/literature/topics/personas#:~:text=Personas%20are%20fictional%20characters%2C%20which,%2C%20experiences%2C%20behaviors%20and%20goals.)
