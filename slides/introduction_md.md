@@ -13,7 +13,6 @@ _J. Hathaway: Instructor_
 _Gavin South: TA_   
 _Wyatt Ogden: TA_   
 
-
 ---
 
 class: center, middle
@@ -28,7 +27,7 @@ class: center, middle
 class: center, middle, font40
 # What makes great music?
 
-![:scale 90%](../img/aretha_studio.png)
+![:scale 91%](../img/aretha_studio.png)
 
 ???
 
