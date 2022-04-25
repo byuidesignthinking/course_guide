@@ -1,4 +1,5 @@
 ---
+parent: Slides
 layout: presentation
 title: Design Thinking
 ---
