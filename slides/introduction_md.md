@@ -27,7 +27,7 @@ class: center, middle
 class: center, middle, font40
 # What makes great music?
 
-![:scale 91%](../img/aretha_studio.png)
+![:scale 90%](../img/aretha_studio.png)
 
 ???
 
