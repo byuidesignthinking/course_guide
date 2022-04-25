@@ -2,6 +2,7 @@
 parent: Slides
 layout: presentation
 title: Design Thinking
+published: false
 ---
 
 
