@@ -20,6 +20,7 @@ _Slides for Design Thinking._
 
 - [Introduction](introduction.html)
 - [On Design Thinking, Empathy, and Project 1](dt_empathy_project1.html)
+- [Define: Leaning to empathy not ideate](define.html)
 
 ## Method and Mindsets Conversations
 
