@@ -2,7 +2,6 @@
 nav_order: "B"
 ---
 
-<!-- has_children: true -->
 # Slides
 
 _Slides for Design Thinking._
