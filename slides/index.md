@@ -20,11 +20,8 @@ _Slides for Design Thinking._
 - [Introduction](introduction.html)
 - [On Design Thinking, Empathy, and Project 1](dt_empathy_project1.html)
 - [Define: Leaning to empathy not ideate](define.html)
+- [Ideate: Here we go with divergent thinking again](ideate.html)
 
 ## Method and Mindsets Conversations
 
 <!-- Empathy, Optimism, Iteration, Creative Confidence, Making, Embracing Ambiguity, and Learning from Failure. -->
-
-
-## Projects
-
