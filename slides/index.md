@@ -25,5 +25,6 @@ _Slides for Design Thinking._
 ## Method and Mindsets Conversations
 
 - [How Might We...](hmw.html)
+- [Originality](originality.html)
 
 <!-- Empathy, Optimism, Iteration, Creative Confidence, Making, Embracing Ambiguity, and Learning from Failure. -->
