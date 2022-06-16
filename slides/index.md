@@ -26,5 +26,6 @@ _Slides for Design Thinking._
 
 - [How Might We...](hmw.html)
 - [Originality](originality.html)
+- [Listening and Communicating](listening.html)
 
 <!-- Empathy, Optimism, Iteration, Creative Confidence, Making, Embracing Ambiguity, and Learning from Failure. -->
